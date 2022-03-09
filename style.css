@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shizuru&display=swap');
+
+body{
+    background-color:khaki;
+    color:sienna;
+    font-family: 'EB Garamond', serif;
+    
+}
+ul{ 
+    list-style-type:"🍂";
+    
+}
+.saturn{
+    list-style-type: "🪐";
+    color: #36319D;
+}
+.lapki{
+    list-style-type: "🐾";
+    color: rgb(46, 21, 4);
+}
+.favourite{
+    text-decoration:overline;
+    font-size: 20px;
+}
+.list{
+    list-style-type: "🐾";
+    color: rgb(46, 21, 4);
+}
+a{
+    font-family: 'Shizuru', cursive;
+    font-size: 30px;
+    text-decoration: none;
+    text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+    text-shadow: -10px -10px 20px purple, 10px 10px 20px palevioletred, 1px 1px 20px blue
+}
+
